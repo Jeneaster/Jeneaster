@@ -1,3 +1,3 @@
-print("Am I doing this right?")
+Literally no idea what I am doing. Day 1
 
 
