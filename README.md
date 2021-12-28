@@ -1,2 +1,3 @@
-nameis=input("What is your name?")
+print("Am I doing this right?")
+
 
